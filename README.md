@@ -1,7 +1,7 @@
 # Lord of the Rings Companion
 ### A RAG-Powered Interactive Web Application for Middle-Earth
 
-**Course:** MPCS 53416 Generative AI — University of Chicago  
+**Course:** MPCS 57200 Generative AI — University of Chicago  
 **Author:** Yigit Akdemir  
 **Stack:** Python · LangChain · FAISS · OpenAI GPT · Streamlit
 
